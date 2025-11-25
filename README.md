@@ -5,7 +5,7 @@ This workspace contains a small Angular (v14) frontend and a FastAPI backend wir
 Overview
 --------
 - Frontend: `frontend/` — Angular app. A simple calculator UI posts calculation requests to the backend and shows the result on a separate page.
-- Backend: `backend/` — FastAPI app exposing a single POST `/calculate` endpoint that performs the arithmetic and returns the result.
+- Backend: `backend/` — Dotnet app exposing a single POST `/calculate` endpoint that performs the arithmetic and returns the result.
 
 Architecture and data flow
 --------------------------
