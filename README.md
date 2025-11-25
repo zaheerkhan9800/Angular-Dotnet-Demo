@@ -70,7 +70,7 @@ Running the project (recommended order)
 1) Start the backend (FastAPI)
 
 ```powershell
-cd c:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend
+cd c:\Users\Projects\Angular14-Demo\backend
 python -m venv .venv; .\.venv\Scripts\Activate.ps1; pip install -r requirements.txt; uvicorn main:app --reload --port 8000
 ```
 
@@ -79,7 +79,7 @@ This will start the API at http://127.0.0.1:8000. The frontend expects the endpo
 2) Start the frontend (Angular)
 
 ```powershell
-cd c:\Users\ZAHEER KHAN\Documents\Angular14-Demo\frontend
+cd c:\Users\Projects\Angular14-Demo\frontend
 npm install
 npm start
 ```
@@ -99,17 +99,4 @@ Expected response:
 ```json
 {"answer":12}
 ```
-
-Troubleshooting
----------------
-- If the Angular app still shows the old starter placeholder, make sure you rebuilt / restarted the dev server after the template change. Run `npm start` again to restart the dev server.
-- If the frontend POST fails with CORS or network errors, ensure the backend is running and reachable at `http://localhost:8000` and that it allows origin `http://localhost:4200` (CORS is already enabled in `backend/main.py`).
-- If you see TypeScript or compile errors in the Angular app, run `npm install` then `ng serve` (or `npm start`) to get the full compiler messages.
-
-What I can do next
-------------------
-- Start the backend here and run a small automated smoke test POST.
-- Start the frontend dev server here and show the build logs so you can confirm the calculator UI loads at `http://localhost:4200/`.
-
-If you'd like me to start the servers and run a full end-to-end test now, tell me which terminal to use (PowerShell or one of the available terminals) and I'll run the commands and report back.
 
