@@ -1,0 +1,14 @@
+C:\Demo\BackendDotnet.exe
+C:\Demo\BackendDotnet.dll
+C:\Demo\BackendDotnet.deps.json
+C:\Demo\BackendDotnet.runtimeconfig.json
+C:\Demo\BackendDotnet.pdb
+C:\Demo\ClosedXML.dll
+C:\Demo\ClosedXML.Parser.dll
+C:\Demo\CsvHelper.dll
+C:\Demo\DocumentFormat.OpenXml.dll
+C:\Demo\DocumentFormat.OpenXml.Framework.dll
+C:\Demo\ExcelNumberFormat.dll
+C:\Demo\RBush.dll
+C:\Demo\SixLabors.Fonts.dll
+C:\Demo\System.IO.Packaging.dll

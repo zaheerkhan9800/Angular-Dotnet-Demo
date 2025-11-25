@@ -1,0 +1,14 @@
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet\publish\BackendDotnet.exe
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet\publish\BackendDotnet.dll
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet\publish\BackendDotnet.deps.json
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet\publish\BackendDotnet.runtimeconfig.json
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet\publish\BackendDotnet.pdb
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet\publish\ClosedXML.dll
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet\publish\ClosedXML.Parser.dll
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet\publish\CsvHelper.dll
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet\publish\DocumentFormat.OpenXml.dll
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet\publish\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet\publish\ExcelNumberFormat.dll
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet\publish\RBush.dll
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet\publish\SixLabors.Fonts.dll
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet\publish\System.IO.Packaging.dll

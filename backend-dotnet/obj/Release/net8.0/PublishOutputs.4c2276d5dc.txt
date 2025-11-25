@@ -1,0 +1,14 @@
+C:\inetpub\BackendDotnet.exe
+C:\inetpub\BackendDotnet.dll
+C:\inetpub\BackendDotnet.deps.json
+C:\inetpub\BackendDotnet.runtimeconfig.json
+C:\inetpub\BackendDotnet.pdb
+C:\inetpub\ClosedXML.dll
+C:\inetpub\ClosedXML.Parser.dll
+C:\inetpub\CsvHelper.dll
+C:\inetpub\DocumentFormat.OpenXml.dll
+C:\inetpub\DocumentFormat.OpenXml.Framework.dll
+C:\inetpub\ExcelNumberFormat.dll
+C:\inetpub\RBush.dll
+C:\inetpub\SixLabors.Fonts.dll
+C:\inetpub\System.IO.Packaging.dll

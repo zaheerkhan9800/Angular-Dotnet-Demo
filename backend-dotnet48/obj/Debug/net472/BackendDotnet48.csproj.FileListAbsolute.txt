@@ -1,0 +1,5 @@
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet48\obj\Debug\net472\BackendDotnet48.csproj.AssemblyReference.cache
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet48\obj\Debug\net472\BackendDotnet48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet48\obj\Debug\net472\BackendDotnet48.AssemblyInfoInputs.cache
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet48\obj\Debug\net472\BackendDotnet48.AssemblyInfo.cs
+C:\Users\ZAHEER KHAN\Documents\Angular14-Demo\backend-dotnet48\obj\Debug\net472\BackendDotnet48.csproj.CoreCompileInputs.cache
